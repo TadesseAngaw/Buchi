@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/baby"
+        android:title="@string/fragmentSearchAgeBaby" />
+
+    <item
+        android:id="@+id/young"
+        android:title="@string/fragmentSearchAgeYoung" />
+
+    <item
+        android:id="@+id/adult"
+        android:title="@string/fragmentSearchAgeAdult" />
+
+    <item
+        android:id="@+id/senior"
+        android:title="@string/fragmentSearchAgeSenior" />
+</menu>

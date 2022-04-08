@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Buchi</string>
+
+
+    <!--Intro fragment-->
+    <string name="fragmentIntoBannerTitle">OVER\n200,000\nSTRAY\nDOGS\nOn Addis\nAbaba\nStreets in\n2020!</string>
+    <string name="fragmentIntroMessageTitle">Be part of the solution</string>
+    <string name="fragmentIntroMessageBody">Adopt a stray pet to decrease the number of stray pets on the street for the safety of every one.\n\nStart your journey of your companion now using Buchi app</string>
+
+
+    <!--Menu-->
+    <string name="menuMainHome">Home</string>
+    <string name="menuMainSearch">Search</string>
+    <string name="menuMainFavorite">Favorite</string>
+
+
+    <!--Home-->
+    <string name="fragmentHomeTitle">Buchi</string>
+    <string name="fragmentHomeDogTitle">Dogs</string>
+    <string name="fragmentHomeDogTagline">A man\'s best friend\nSince the beginning</string>
+    <string name="fragmentHomeDogDescription">Seek companionship\nfrom one of the best\nhuman friend ever</string>
+    <string name="fragmentHomeCatTitle">Cats</string>
+    <string name="fragmentHomeCatTagline">Majestic, cute\neven queen</string>
+    <string name="fragmentHomeCatDescription">Seek companionship\nfrom one of the majestic\npets of all time</string>
+    <string name="fragmentHomeOtherTitle">Others</string>
+    <string name="fragmentHomeOtherTagline">Bunnies, birds\nand many others</string>
+    <string name="fragmentHomeOtherDescription">Seek companionship\nfrom exotic ones that\nmakes you feel unique</string>
+
+
+    <!--Search-->
+    <string name="fragmentSearchTitle">Search</string>
+    <string name="fragmentSearchClear">Clear Search</string>
+    <string name="fragmentSearchTypeLabel">Type</string>
+    <string name="fragmentSearchTypeDog">Dog</string>
+    <string name="fragmentSearchTypeCat">Cat</string>
+    <string name="fragmentSearchTypeOther">Other</string>
+
+    <string name="fragmentSearchSortLabel">Sort</string>
+    <string name="fragmentSearchSortNearest">Nearest</string>
+
+    <string name="fragmentSearchGwcLabel">Good with Children</string>
+    <string name="fragmentSearchGwcYes">Yes</string>
+    <string name="fragmentSearchGwcNo">No</string>
+
+    <string name="fragmentSearchAgeLabel">Age</string>
+    <string name="fragmentSearchAgeBaby">Baby</string>
+    <string name="fragmentSearchAgeYoung">Young</string>
+    <string name="fragmentSearchAgeAdult">Adult</string>
+    <string name="fragmentSearchAgeSenior">Senior</string>
+
+    <string name="fragmentSearchGenderLabel">Gender</string>
+    <string name="fragmentSearchGenderMale">Male</string>
+    <string name="fragmentSearchGenderFemale">Female</string>
+
+    <string name="fragmentSearchSizeLabel">Size</string>
+    <string name="fragmentSearchSizeSmall">Small</string>
+    <string name="fragmentSearchSizeMedium">Medium</string>
+    <string name="fragmentSearchSizeLarge">Large</string>
+    <string name="fragmentSearchSizeXLarge">XLarge</string>
+
+    <string name="fragmentSearchErrorTitle">Oops</string>
+    <string name="fragmentSearchErrorMessage">We are unable to load pets\nPlease try again</string>
+    <string name="fragmentSearchErrorRetry">Try Again</string>
+    <string name="fragmentSearchEmptyTitle">Such Empty</string>
+    <string name="fragmentSearchEmptyMessage">There are no pets with your selection\nPlease try with other parameters</string>
+    <string name="fragmentSearchEmptySearchAgain">Search Again</string>
+
+    <string name="fragmentSearchLook">Look</string>
+
+    <string name="fragmentSearchErrorDisconnected">You seem disconnected. Try later</string>
+    <string name="fragmentSearchErrorServerProblem">Oops :( something happened</string>
+
+    <!--PetDetail-->
+    <string name="fragmentPetDetailTitle">Pet Detail</string>
+    <string name="fragmentPetDetailGwcYes">Good with children</string>
+    <string name="fragmentPetDetailGwcNo">Not good with children</string>
+    <string name="fragmentPetDetailAge">Age: %1$s</string>
+    <string name="fragmentPetDetailGender">Gender: %1$s</string>
+    <string name="fragmentPetDetailSize">Size: %1$s</string>
+    <string name="fragmentPetDetailSwipeImageMessage">Swipe for more pictures</string>
+    <string name="fragmentPetDetailAdoptMe">Adopt Me</string>
+
+
+    <!--Adopt-->
+    <string name="fragmentAdoptTitle">Adopt</string>
+    <string name="fragmentAdoptAdoptionMessageTitle">We don\'t know how to reach you</string>
+    <string name="fragmentAdoptAdoptionMessageDescription">Place your name and phone number, we will\ncontact you asap</string>
+    <string name="fragmentAdoptAdoptionLabelName">Name</string>
+    <string name="fragmentAdoptAdoptionLabelPhoneNumber">Phone number</string>
+    <string name="fragmentAdoptAdoptionSend">Send</string>
+    <string name="fragmentAdoptNameEmptyError">Name can\'t be empty</string>
+    <string name="fragmentAdoptPhoneNumberEmptyError">Phone number can\'t be empty</string>
+    <string name="fragmentAdoptSuccess">Thank you. We will contact you soon</string>
+
+
+    <!--Favorite-->
+    <string name="fragmentFavoriteTitle">Favorites</string>
+    <string name="fragmentFavoriteEmptyTitle">No Favorite Pets Yet</string>
+    <string name="fragmentFavoriteEmptyMessage">Search and select your\nfavorite pet. They will appear here</string>
+    <string name="fragmentFavoriteSearch">Look for pets</string>
+
+</resources>

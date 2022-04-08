@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dog"
+        android:title="@string/fragmentSearchTypeDog" />
+
+    <item
+        android:id="@+id/cat"
+        android:title="@string/fragmentSearchTypeCat" />
+
+    <item
+        android:id="@+id/other"
+        android:title="@string/fragmentSearchTypeOther" />
+</menu>
